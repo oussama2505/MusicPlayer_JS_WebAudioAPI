@@ -1,6 +1,6 @@
 # Music Player JS _ Web Audio API
 
-This project is a simple music player built using JavaScript and the Web Audio API(Using Array Methods : map();filter();find();join();sort();indexOf)
+This project is a simple music player built using JavaScript and the Web Audio API(Using Array Methods : map();filter();find();join();sort();indexOf())
 
 ## Table of Contents
 
