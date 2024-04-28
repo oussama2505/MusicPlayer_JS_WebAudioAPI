@@ -13,8 +13,8 @@ Este proyecto es un reproductor de música simple construido utilizando JavaScri
 - [Opiniones de Usuarios](#opiniones-de-usuarios)
 
 ## User View
-![Player Buttons ](ejemplo.jpg)
-![Playlist](ejemplo.jpg)
+![Player Buttons ](Music_Player1.png)
+![Playlist](Music_Player_2.png)
 
 ## Características
 
